@@ -11,6 +11,8 @@
 		DE1D603D2C977A7F00BC1609 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE1D603C2C977A7F00BC1609 /* ContentView.swift */; };
 		DE1D603F2C977A8000BC1609 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE1D603E2C977A8000BC1609 /* Assets.xcassets */; };
 		DE1D60422C977A8000BC1609 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE1D60412C977A8000BC1609 /* Preview Assets.xcassets */; };
+		DE1D60492C977B4000BC1609 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = DE1D60482C977B4000BC1609 /* Localizable.xcstrings */; };
+		DE1D604B2C977F5A00BC1609 /* InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = DE1D604A2C977F5A00BC1609 /* InfoPlist.xcstrings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		DE1D603C2C977A7F00BC1609 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DE1D603E2C977A8000BC1609 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE1D60412C977A8000BC1609 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DE1D60482C977B4000BC1609 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		DE1D604A2C977F5A00BC1609 /* InfoPlist.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = InfoPlist.xcstrings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				DE1D603C2C977A7F00BC1609 /* ContentView.swift */,
 				DE1D603E2C977A8000BC1609 /* Assets.xcassets */,
 				DE1D60402C977A8000BC1609 /* Preview Content */,
+				DE1D60482C977B4000BC1609 /* Localizable.xcstrings */,
+				DE1D604A2C977F5A00BC1609 /* InfoPlist.xcstrings */,
 			);
 			path = "Localization Tutorial";
 			sourceTree = "<group>";
@@ -109,6 +115,7 @@
 			knownRegions = (
 				en,
 				Base,
+				tr,
 			);
 			mainGroup = DE1D602E2C977A7F00BC1609;
 			productRefGroup = DE1D60382C977A7F00BC1609 /* Products */;
@@ -127,6 +134,8 @@
 			files = (
 				DE1D60422C977A8000BC1609 /* Preview Assets.xcassets in Resources */,
 				DE1D603F2C977A8000BC1609 /* Assets.xcassets in Resources */,
+				DE1D604B2C977F5A00BC1609 /* InfoPlist.xcstrings in Resources */,
+				DE1D60492C977B4000BC1609 /* Localizable.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
