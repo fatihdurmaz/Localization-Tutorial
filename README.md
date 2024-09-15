@@ -1,4 +1,8 @@
 # SwiftUI Localization with String Catalog
+![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)
+![Platform](https://img.shields.io/badge/Platform-iOS%20-red.svg)
+![Platform](https://img.shields.io/badge/SwiftUI-5-green.svg)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 This project demonstrates how to handle localization in SwiftUI applications using the String Catalog. It serves as a guide for developers looking to add multilingual support with the String Catalog feature. You can watch the video tutorial linked below for a comprehensive walkthrough.
 
